@@ -1,0 +1,23 @@
+name: RGBdecryptoLENS
+favicon: null
+layout_spectrum: 0.02854785812087357
+typography_spectrum: 0.9713859267067164
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9753167862072587
+  lightness: 0.6171138850040734
+  saturation: 0.40854283422231674
+  rhythmicContrast: 0.8034076590556651
+purpose: []
